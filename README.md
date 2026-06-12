@@ -1,4 +1,6 @@
-# Real-Time Sign Language Translator
+# STANFORD-CIP26 Sign Language Translator
+
+Stanford Code in Place 2026 final project submission.
 
 This project is an incremental AI and computer vision system for translating
 hand signs from webcam input into text.
